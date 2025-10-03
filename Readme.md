@@ -31,13 +31,13 @@ Aqui é onde damos o "PUSH", que basicamente seria se pegarssemos o versionament
 
 _Centralizado / linear_
 
-<p>Concurrent Version Systen (CVS)</p>
-<p>Apache Subversion (SVN)</p>
+<p>- Concurrent Version Systen (CVS)</p>
+<p>- Apache Subversion (SVN)</p>
 
 _Distribuidos_
 
-<p>Bitkeeper</p>
-<p>Git</p>
+<p>- Bitkeeper</p>
+<p>- Git</p>
 
 **Principais vantagens**
 
