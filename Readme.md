@@ -2,7 +2,7 @@
     # Olá, esse projeto ensina o conceito do Git e Github
  </h1>
 
- <h3 align="center"> ## Git: sistema de controle de versão (VCS)</h3>
+ <h2 align="center"> ## Git: sistema de controle de versão (VCS)</h2>
 
 **Versionamento (versões)**
 
@@ -14,7 +14,7 @@ Quando reabrirmos e continuamos desenvolvendo esse mesmo projeto a fim de melhor
 
 </p>
 
-<h4 align="center">Modelo distribuido:</h4>
+<h3 align="center">Modelo distribuido:</h3>
 
 _Utilizado atualmente._
 
@@ -30,16 +30,38 @@ Aqui é onde damos o "PUSH", que basicamente seria se pegarssemos o versionament
 **Principais VCS:**
 
 _Centralizado / linear_
-Concurrent Version Systen (CVS)
-Apache Subversion (SVN)
+
+<p>Concurrent Version Systen (CVS)</p>
+<p>Apache Subversion (SVN)</p>
 
 _Distribuidos_
-Bitkeeper
-Git
+
+<p>Bitkeeper</p>
+<p>Git</p>
 
 **Principais vantagens**
-controle de histórico
-Trabalho em equepe
-Ramificação
-Segurança
-Organização
+
+<p>controle de histórico</p>
+<p>Trabalho em equepe</p>
+<p>Ramificação</p>
+<p>Segurança</p>
+<p>Organização</p>
+
+<h3 align="center">GitHub: Plataforma de rede social para programadores</h3>
+
+**Vantagens:**
+
+<p>Repositórios ilimitados</p>
+<p>Hospedagem de código-fonte</p>
+<p>Características de rede social</p>
+<p>Github Pages integrado: serviço gratuito que permite hospedar websites estáticos (com HTML, CSS e javaScript) diretamente de um repósitorio Git.</p>
+<p>Colaboraçção</p>
+<p>Forks: ato de criar uma cópia pessoal de um repositório existente em sua própria conta.</p>
+
+**Além do GitHub, temos outros repósitorios remotos. São eles:**
+
+<p>Gitlab</p>
+<p>Bitbuckit</p>
+<p>Phabricator</p>
+<p>Gogs</p>
+<p>Kallithea</p>
